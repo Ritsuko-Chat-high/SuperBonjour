@@ -45,4 +45,4 @@ SBの成果は、既知のmobdev2照合方式とペアリング記録のMAC更�
 - [Apple: プライベートWi-Fiアドレス](https://support.apple.com/ja-jp/102509) — Appleが説明する機能の仕様。
 - [RFC 5869: HKDF](https://www.rfc-editor.org/rfc/rfc5869) — 鍵導出の規格。
 
-公開者が文書のライセンスを決定するまでは、再配布許諾を付与したものではありません。Appleおよび各プロジェクトとは独立した調査です。
+本資料は Creative Commons Attribution 4.0 International（CC BY 4.0）ライセンスで公開します。詳細は [LICENSE](LICENSE) を参照してください。Appleおよび各プロジェクトとは独立した調査です。
