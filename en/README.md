@@ -45,4 +45,4 @@ SB's contribution is a documented demonstration in one environment: combining th
 - [Apple: Private Wi-Fi addresses](https://support.apple.com/en-us/102509) — feature behavior.
 - [RFC 5869: HKDF](https://www.rfc-editor.org/rfc/rfc5869) — key derivation standard.
 
-No redistribution license is granted by this draft; the publisher must choose a license before publication. This work is independent of Apple and the referenced projects.
+This documentation is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See [LICENSE](../LICENSE) for details. This is an independent investigation, unaffiliated with Apple or the referenced projects.
